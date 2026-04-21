@@ -34,8 +34,8 @@
 - حفظ العملية تلقائيًا في التطبيق مع كاتيجوري مبدئي.
 
 ### كلمات مفتاحية مبدئية للاكتشاف
-`transaction`, `purchase`, `payment`, `debit`, `credit`, `spent`, `balance`, `withdraw`, `deposit`, `transfer`,
-`عملية`, `خصم`, `اضافة`, `دفع`, `شراء`, `ايداع`, `سحب`, `رصيد`, `تحويل`
+- English: `transaction`, `purchase`, `payment`, `debit`, `credit`, `spent`, `balance`, `withdraw`, `deposit`, `transfer`
+- العربية: `عملية`, `خصم`, `إضافة`, `دفع`, `شراء`, `إيداع`, `سحب`, `رصيد`, `تحويل`
 
 ## اقتراحات إضافية مفيدة
 - Rules ذكية للتصنيف التلقائي (مثلاً أي عملية فيها “Uber” -> مواصلات).
